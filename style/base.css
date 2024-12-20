@@ -1,0 +1,7 @@
+@import "navbar.css";
+@import "carousel.css";
+
+body {
+    margin: 0;
+    font-family: 'Meiryo', sans-serif;
+}
